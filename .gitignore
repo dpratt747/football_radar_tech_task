@@ -1,0 +1,13 @@
+/.bsp/
+/.idea/
+/project/target/
+/target/
+/project/project/
+/integration/target/
+.vscode
+/.metals/
+/src/main/scala/runner/.bsp/
+/src/main/scala/runner/.scala-build/
+/.bloop/
+/project/.bloop/
+/project/metals.sbt
