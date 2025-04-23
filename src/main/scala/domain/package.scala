@@ -16,6 +16,23 @@ package object domain {
   final case class ThrowsException(message: String) extends StaticAnnotation
 
   /**
+   * ADTs
+   */
+
+  sealed trait MatchResult extends Product with Serializable {
+    def points: Int
+  }
+  case object Win extends MatchResult {
+    override def points = 3
+  }
+  case object Draw extends MatchResult {
+    override def points = 1
+  }
+  case object Loss extends MatchResult {
+    override def points = 0
+  }
+
+  /**
    * Loaded Case Classes
    */
 
@@ -29,7 +46,7 @@ package object domain {
                               homeGoals: Int,
                               awayGoals: Int
                               )
-  
+
   object MatchObject {
     given decoder: Decoder[MatchObject] = deriveDecoder[MatchObject]
   }

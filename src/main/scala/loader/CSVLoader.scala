@@ -22,12 +22,12 @@ private final class CSVLoaderImpl(path: Path)(using Using.Releasable[CSVReader])
 
     val tryReading: Either[Throwable, List[CSVRow]] = Using(CSVReader.open(path.toFile)){ reader =>
     // This gets all rows with the header and maps it into a CSVRow case class
-    reader.allWithHeaders().map{ row =>
-        CSVRow(
-          message = row(Columns.Message.toString),
-          age = row(Columns.Age.toString).stringToInt
-        )
-      }
+      reader.allWithHeaders().map{ row =>
+          CSVRow(
+            message = row(Columns.Message.toString),
+            age = row(Columns.Age.toString).stringToInt
+          )
+        }
     }.toEither
 
     tryReading match {

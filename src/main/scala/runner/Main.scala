@@ -16,6 +16,6 @@ object Main {
 //    val csvLoader = CSVLoaderImpl.make(csvPath)
 //    println(csvLoader.loadOrThrow)
 
-    println(processor.gamesPlayed)
+    println(processor.gameDetails)
   }
 }
