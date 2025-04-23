@@ -1,0 +1,3422 @@
+[
+  {
+    "gameId": 1473436,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-08-05 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473437,
+    "homeTeam": "Fulham",
+    "awayTeam": "Liverpool",
+    "kickoff": "2022-08-06 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473438,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2022-08-07 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473439,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2022-08-06 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473440,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2022-08-06 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473441,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-08-07 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473442,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2022-08-06 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473443,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-08-06 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473444,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester City",
+    "kickoff": "2022-08-07 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473445,
+    "homeTeam": "Everton",
+    "awayTeam": "Chelsea",
+    "kickoff": "2022-08-06 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473446,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-08-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473447,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Everton",
+    "kickoff": "2022-08-13 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473448,
+    "homeTeam": "Brentford",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-08-13 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473449,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2022-08-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473450,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2022-08-14 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473451,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2022-08-15 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473452,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2022-08-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473453,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "West Ham United",
+    "kickoff": "2022-08-14 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473454,
+    "homeTeam": "Southampton",
+    "awayTeam": "Leeds United",
+    "kickoff": "2022-08-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473455,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Fulham",
+    "kickoff": "2022-08-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473456,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-08-20 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473457,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2022-08-20 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473458,
+    "homeTeam": "Everton",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2022-08-20 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473459,
+    "homeTeam": "Fulham",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-08-20 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473460,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Chelsea",
+    "kickoff": "2022-08-21 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473461,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-08-20 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473462,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool",
+    "kickoff": "2022-08-22 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473463,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester City",
+    "kickoff": "2022-08-21 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473464,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2022-08-20 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473465,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2022-08-21 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473466,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Fulham",
+    "kickoff": "2022-08-27 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473467,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "West Ham United",
+    "kickoff": "2022-08-28 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473468,
+    "homeTeam": "Brentford",
+    "awayTeam": "Everton",
+    "kickoff": "2022-08-27 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473469,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Leeds United",
+    "kickoff": "2022-08-27 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473470,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-08-27 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473471,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2022-08-27 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 9,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473472,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2022-08-27 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473473,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2022-08-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473474,
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-08-27 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473475,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2022-08-28 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473476,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2022-08-31 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473477,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2022-08-31 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473478,
+    "homeTeam": "Fulham",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2022-08-30 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473479,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Everton",
+    "kickoff": "2022-08-30 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473480,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-09-01 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473481,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2022-08-31 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473482,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-08-30 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473483,
+    "homeTeam": "Southampton",
+    "awayTeam": "Chelsea",
+    "kickoff": "2022-08-30 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473484,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2022-08-31 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473485,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2022-08-31 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473486,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester City",
+    "kickoff": "2022-09-03 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473487,
+    "homeTeam": "Brentford",
+    "awayTeam": "Leeds United",
+    "kickoff": "2022-09-03 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473488,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-09-04 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473489,
+    "homeTeam": "Chelsea",
+    "awayTeam": "West Ham United",
+    "kickoff": "2022-09-03 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473490,
+    "homeTeam": "Everton",
+    "awayTeam": "Liverpool",
+    "kickoff": "2022-09-03 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473491,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-09-04 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473492,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2022-09-03 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473493,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2022-09-03 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473494,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Fulham",
+    "kickoff": "2022-09-03 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473495,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-09-03 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473496,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Everton",
+    "kickoff": "2023-03-01 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473497,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-04-04 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473498,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-01-18 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473499,
+    "homeTeam": "Fulham",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-01-12 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473500,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-04-04 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473501,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-04-04 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473502,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-03-01 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473503,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-01-19 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473504,
+    "homeTeam": "Southampton",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-03-15 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473505,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-04-05 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "gameId": 1473506,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-09-16 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473507,
+    "homeTeam": "Brentford",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-09-18 13:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473508,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-03-15 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473509,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-04-04 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473510,
+    "homeTeam": "Everton",
+    "awayTeam": "West Ham United",
+    "kickoff": "2022-09-18 15:15:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473511,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-02-08 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473512,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2022-09-17 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473513,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Fulham",
+    "kickoff": "2022-09-16 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473514,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-09-17 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 6,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473515,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester City",
+    "kickoff": "2022-09-17 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473516,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2022-10-01 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473517,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-10-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473518,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Chelsea",
+    "kickoff": "2022-10-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473519,
+    "homeTeam": "Fulham",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2022-10-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473520,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2022-10-02 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473521,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2022-10-03 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473522,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2022-10-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473523,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-10-02 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 6,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473524,
+    "homeTeam": "Southampton",
+    "awayTeam": "Everton",
+    "kickoff": "2022-10-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473525,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2022-10-01 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473526,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Liverpool",
+    "kickoff": "2022-10-09 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473527,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-10-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473528,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2022-10-08 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473529,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2022-10-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473530,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Leeds United",
+    "kickoff": "2022-10-09 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473531,
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-10-09 20:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473532,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-10-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473533,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-10-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473534,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2022-10-10 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473535,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Fulham",
+    "kickoff": "2022-10-09 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473536,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Chelsea",
+    "kickoff": "2022-10-16 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473537,
+    "homeTeam": "Brentford",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2022-10-14 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473538,
+    "homeTeam": "Fulham",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2022-10-15 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473539,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-10-16 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473540,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2022-10-15 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473541,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester City",
+    "kickoff": "2022-10-16 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473542,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2022-10-16 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473543,
+    "homeTeam": "Southampton",
+    "awayTeam": "West Ham United",
+    "kickoff": "2022-10-16 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473544,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Everton",
+    "kickoff": "2022-10-15 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473545,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2022-10-15 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473546,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-02-15 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473547,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-10-19 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473548,
+    "homeTeam": "Brentford",
+    "awayTeam": "Chelsea",
+    "kickoff": "2022-10-19 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473549,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2022-10-18 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473550,
+    "homeTeam": "Fulham",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2022-10-20 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473551,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Leeds United",
+    "kickoff": "2022-10-20 21:15:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473552,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2022-10-18 21:15:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473553,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Everton",
+    "kickoff": "2022-10-19 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473554,
+    "homeTeam": "Liverpool",
+    "awayTeam": "West Ham United",
+    "kickoff": "2022-10-19 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473555,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2022-10-19 21:15:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473556,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-10-23 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473557,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-10-22 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473558,
+    "homeTeam": "Everton",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2022-10-22 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473559,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Fulham",
+    "kickoff": "2022-10-23 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473560,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2022-10-22 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473561,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Liverpool",
+    "kickoff": "2022-10-22 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473562,
+    "homeTeam": "Southampton",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-10-23 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473563,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2022-10-23 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473564,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2022-10-24 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473565,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-10-23 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473566,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2022-10-30 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473567,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2022-10-29 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473568,
+    "homeTeam": "Brentford",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2022-10-29 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473569,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Chelsea",
+    "kickoff": "2022-10-29 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473570,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-10-29 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473571,
+    "homeTeam": "Fulham",
+    "awayTeam": "Everton",
+    "kickoff": "2022-10-29 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473572,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester City",
+    "kickoff": "2022-10-29 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473573,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Leeds United",
+    "kickoff": "2022-10-29 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473574,
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United",
+    "kickoff": "2022-10-30 17:15:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473575,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2022-10-29 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473576,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-11-06 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473577,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-11-06 13:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473578,
+    "homeTeam": "Everton",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-11-05 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473579,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2022-11-05 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473580,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Fulham",
+    "kickoff": "2022-11-05 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473581,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-11-05 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473582,
+    "homeTeam": "Southampton",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2022-11-06 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473583,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Liverpool",
+    "kickoff": "2022-11-06 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473584,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2022-11-06 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473585,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2022-11-05 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473586,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Everton",
+    "kickoff": "2022-11-12 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473587,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2022-11-13 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473588,
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-11-13 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473589,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-11-12 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473590,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-11-12 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473591,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Chelsea",
+    "kickoff": "2022-11-12 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473592,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2022-11-12 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473593,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Leeds United",
+    "kickoff": "2022-11-12 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473594,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-11-12 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473595,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-11-12 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473596,
+    "homeTeam": "Arsenal",
+    "awayTeam": "West Ham United",
+    "kickoff": "2022-12-26 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473597,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Liverpool",
+    "kickoff": "2022-12-26 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473598,
+    "homeTeam": "Brentford",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2022-12-26 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473599,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2022-12-27 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473600,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Fulham",
+    "kickoff": "2022-12-26 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473601,
+    "homeTeam": "Everton",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2022-12-26 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473602,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Manchester City",
+    "kickoff": "2022-12-28 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473603,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2022-12-26 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473604,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2022-12-27 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473605,
+    "homeTeam": "Southampton",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2022-12-26 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473606,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2022-12-31 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473607,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-12-31 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473608,
+    "homeTeam": "Fulham",
+    "awayTeam": "Southampton",
+    "kickoff": "2022-12-31 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473609,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Leicester City",
+    "kickoff": "2022-12-30 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473610,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Everton",
+    "kickoff": "2022-12-31 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473611,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Leeds United",
+    "kickoff": "2022-12-31 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473612,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-01-01 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473613,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-01-01 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473614,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Brentford",
+    "kickoff": "2022-12-30 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473615,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "kickoff": "2022-12-31 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473616,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-01-03 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473617,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-01-04 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473618,
+    "homeTeam": "Brentford",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-01-02 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473619,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-01-05 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473620,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-01-04 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473621,
+    "homeTeam": "Everton",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-01-03 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473622,
+    "homeTeam": "Leeds United",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-01-04 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473623,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-01-03 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473624,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-01-03 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473625,
+    "homeTeam": "Southampton",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-01-04 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473626,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-01-13 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473627,
+    "homeTeam": "Brentford",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-01-14 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473628,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-01-14 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473629,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-01-15 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473630,
+    "homeTeam": "Everton",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-01-14 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473631,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-01-14 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473632,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-01-15 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473633,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-01-14 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473634,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-01-15 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473635,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-01-14 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473636,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-01-22 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473637,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-01-21 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473638,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-01-21 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473639,
+    "homeTeam": "Fulham",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-01-23 21:15:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473640,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-01-22 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473641,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-01-21 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473642,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-01-21 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473643,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-01-22 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473644,
+    "homeTeam": "Southampton",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-01-21 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473645,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Everton",
+    "kickoff": "2023-01-21 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473646,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-02-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473647,
+    "homeTeam": "Brentford",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-02-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473648,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-02-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473649,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-02-03 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473650,
+    "homeTeam": "Everton",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-02-04 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473651,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-02-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473652,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-02-04 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473653,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-02-05 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473654,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-02-05 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473655,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-02-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473656,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-02-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473657,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-02-11 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473658,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-02-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473659,
+    "homeTeam": "Fulham",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-02-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473660,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-02-12 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473661,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-02-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473662,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Everton",
+    "kickoff": "2023-02-13 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473663,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-02-12 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473664,
+    "homeTeam": "Southampton",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-02-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473665,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-02-11 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473666,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-02-18 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473667,
+    "homeTeam": "Brentford",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-02-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473668,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-02-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473669,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-02-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473670,
+    "homeTeam": "Everton",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-02-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473671,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-02-19 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473672,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-02-18 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473673,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-02-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473674,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-02-19 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473675,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-02-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473676,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-02-25 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473677,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-02-25 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473678,
+    "homeTeam": "Everton",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-02-25 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473679,
+    "homeTeam": "Fulham",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-02-24 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473680,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-02-25 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473681,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-02-25 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473682,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-04-05 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473683,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-05-18 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473684,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-02-26 14:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473685,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-02-25 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473686,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-03-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473687,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-03-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473688,
+    "homeTeam": "Brentford",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-03-06 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473689,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-03-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473690,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-03-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473691,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-03-05 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473692,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-03-04 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473693,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Everton",
+    "kickoff": "2023-03-05 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473694,
+    "homeTeam": "Southampton",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-03-04 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473695,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-03-04 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473696,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-03-11 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473697,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-03-11 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473698,
+    "homeTeam": "Everton",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-03-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473699,
+    "homeTeam": "Fulham",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-03-12 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473700,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-03-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473701,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-03-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473702,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-03-12 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473703,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-03-12 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473704,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-03-11 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473705,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-03-12 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473706,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-03-19 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473707,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-03-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473708,
+    "homeTeam": "Brentford",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-03-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473709,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-05-04 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473710,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Everton",
+    "kickoff": "2023-03-18 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473711,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-05-03 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473712,
+    "homeTeam": "Manchester City",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-05-03 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473713,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-03-17 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473714,
+    "homeTeam": "Southampton",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-03-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473715,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-03-18 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473716,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-04-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473717,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-04-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473718,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-04-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473719,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-04-01 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473720,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-04-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473721,
+    "homeTeam": "Everton",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-04-03 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473722,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-04-01 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473723,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-04-02 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473724,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-04-01 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473725,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-04-02 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473726,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-04-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473727,
+    "homeTeam": "Brentford",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-04-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473728,
+    "homeTeam": "Fulham",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-04-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473729,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-04-09 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "gameId": 1473730,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-04-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473731,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-04-09 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473732,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton",
+    "kickoff": "2023-04-08 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473733,
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-04-08 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473734,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-04-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473735,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-04-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473736,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-04-15 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473737,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-04-15 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473738,
+    "homeTeam": "Everton",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-04-15 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473739,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-04-17 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "gameId": 1473740,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-04-15 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473741,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-04-16 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473742,
+    "homeTeam": "Southampton",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-04-15 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473743,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-04-15 16:15:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473744,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-04-16 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473745,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-04-15 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473746,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-04-21 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473747,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-04-23 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473748,
+    "homeTeam": "Brentford",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-04-22 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473749,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-05-24 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473750,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Everton",
+    "kickoff": "2023-04-22 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473751,
+    "homeTeam": "Fulham",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-04-22 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473752,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-04-22 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473753,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-04-22 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473754,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-05-25 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473755,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-04-23 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473756,
+    "homeTeam": "Everton",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-04-27 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473757,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-04-25 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473758,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-04-26 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473759,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-04-27 21:15:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473760,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-04-26 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473761,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-04-25 20:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473762,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-04-25 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473763,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-04-26 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473764,
+    "homeTeam": "Southampton",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-04-27 20:45:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473765,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-04-26 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473766,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-05-02 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473767,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-04-30 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473768,
+    "homeTeam": "Brentford",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-04-29 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473769,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-04-29 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473770,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-04-29 13:45:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473771,
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-04-30 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473772,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Everton",
+    "kickoff": "2023-05-01 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473773,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-04-30 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473774,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-04-30 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473775,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-04-30 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473776,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-05-06 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473777,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Everton",
+    "kickoff": "2023-05-08 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "gameId": 1473778,
+    "homeTeam": "Fulham",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-05-08 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 5,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473779,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-05-06 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473780,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-05-06 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473781,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-05-07 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473782,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-05-08 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473783,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-05-06 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473784,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-05-07 20:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473785,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-05-06 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473786,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-05-14 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473787,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-05-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473788,
+    "homeTeam": "Brentford",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-05-14 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473789,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-05-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473790,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-05-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473791,
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-05-14 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473792,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-05-13 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473793,
+    "homeTeam": "Leicester City",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-05-15 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473794,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-05-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473795,
+    "homeTeam": "Southampton",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-05-13 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473796,
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Manchester United",
+    "kickoff": "2023-05-20 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473797,
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Southampton",
+    "kickoff": "2023-05-21 15:00:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473798,
+    "homeTeam": "Fulham",
+    "awayTeam": "Crystal Palace",
+    "kickoff": "2023-05-20 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "gameId": 1473799,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Aston Villa",
+    "kickoff": "2023-05-20 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473800,
+    "homeTeam": "Manchester City",
+    "awayTeam": "Chelsea",
+    "kickoff": "2023-05-21 17:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473801,
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Leicester City",
+    "kickoff": "2023-05-22 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473802,
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Arsenal",
+    "kickoff": "2023-05-20 18:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473803,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Brentford",
+    "kickoff": "2023-05-20 13:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "gameId": 1473804,
+    "homeTeam": "West Ham United",
+    "awayTeam": "Leeds United",
+    "kickoff": "2023-05-21 14:30:00",
+    "seasonId": 9217,
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473805,
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Everton",
+    "kickoff": "2023-05-20 16:00:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473806,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Wolverhampton Wanderers",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473807,
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Brighton & Hove Albion",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473808,
+    "homeTeam": "Brentford",
+    "awayTeam": "Manchester City",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473809,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Newcastle United",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473810,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Nottingham Forest",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473811,
+    "homeTeam": "Everton",
+    "awayTeam": "Bournemouth",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "gameId": 1473812,
+    "homeTeam": "Leeds United",
+    "awayTeam": "Tottenham Hotspur",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "gameId": 1473813,
+    "homeTeam": "Leicester City",
+    "awayTeam": "West Ham United",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473814,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "gameId": 1473815,
+    "homeTeam": "Southampton",
+    "awayTeam": "Liverpool",
+    "kickoff": "2023-05-28 17:30:00",
+    "seasonId": 9217,
+    "homeGoals": 4,
+    "awayGoals": 4
+  }
+]

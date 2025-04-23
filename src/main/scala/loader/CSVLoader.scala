@@ -14,6 +14,9 @@ trait CSVLoaderAlg {
 
 private final class CSVLoaderImpl(path: Path)(using Using.Releasable[CSVReader]) extends CSVLoaderAlg {
 
+  private enum Columns:
+    case Message, Age
+
   override def loadOrThrow: LoadedCSV = {
     if (!Files.exists(path)) throw CSVLoaderException(s"Invalid path, file is not found: [$path]")
 
@@ -21,8 +24,8 @@ private final class CSVLoaderImpl(path: Path)(using Using.Releasable[CSVReader])
     // This gets all rows with the header and maps it into a CSVRow case class
     reader.allWithHeaders().map{ row =>
         CSVRow(
-          message = row("Message"),
-          age = row("Age").stringToInt
+          message = row(Columns.Message.toString),
+          age = row(Columns.Age.toString).stringToInt
         )
       }
     }.toEither

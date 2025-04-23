@@ -1,6 +1,6 @@
 package loader
 
-import domain.{JsonLoaderException, LoadedJson}
+import domain.{JsonLoaderException, MatchObject}
 import org.scalatest.funspec.AnyFunSpec
 import org.scalatest.matchers.should.Matchers
 import org.scalatestplus.scalacheck.ScalaCheckPropertyChecks
@@ -11,7 +11,19 @@ final class JsonLoaderSpec extends AnyFunSpec with ScalaCheckPropertyChecks with
   describe("JsonLoader success") {
     it("should not throw an exception when loadOrThrow is called with a valid path") {
       val underTest = JsonLoaderImpl.make(Paths.get("./src/test/resources/json/success/testJsonLoader.json"))
-      underTest.loadOrThrow should ===(LoadedJson("Hello World!"))
+      val expected = List(
+        MatchObject(
+          1473436,
+          "Crystal Palace",
+          "Arsenal",
+          "2022-08-05 21:00:00",
+          9217,
+          0,
+          2
+        )
+      )
+
+      underTest.loadOrThrow should ===(expected)
     }
   }
 

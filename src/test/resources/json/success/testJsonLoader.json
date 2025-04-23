@@ -1,3 +1,11 @@
-{
-  "message": "Hello World!"
-}
+[
+  {
+    "gameId": 1473436,
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Arsenal",
+    "kickoff": "2022-08-05 21:00:00",
+    "seasonId": 9217,
+    "homeGoals": 0,
+    "awayGoals": 2
+  }
+]
