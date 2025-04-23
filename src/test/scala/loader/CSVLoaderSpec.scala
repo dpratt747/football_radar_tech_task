@@ -11,7 +11,16 @@ final class CSVLoaderSpec extends AnyFunSpec with ScalaCheckPropertyChecks with 
   describe("CSVLoader success") {
     it("should not throw an exception when loadOrThrow is called with a valid path") {
       val underTest = CSVLoaderImpl.make(Paths.get("./src/test/resources/csv/success/testCSVLoader.csv"))
-      underTest.loadOrThrow should ===(LoadedCSV(List(CSVRow("Hello World!", 20))))
+      val expected = MatchObject(
+        1473436,
+        "Crystal Palace",
+        "Arsenal",
+        "2022-08-05 21:00:00",
+        9217,
+        0,
+        2
+      )
+      underTest.loadOrThrow should ===(List(expected))
     }
   }
 
@@ -24,19 +33,19 @@ final class CSVLoaderSpec extends AnyFunSpec with ScalaCheckPropertyChecks with 
       }
       exception.getMessage should ===(s"Invalid path, file is not found: [$filePathString]")
     }
-    it("should throw an exception when loadOrThrow is called with a valid path but unmapped/unexpected headers") {
+    it("should throw an exception when loadOrThrow is called with a valid path but the data type is incorrect 1") {
       val underTest = CSVLoaderImpl.make(Paths.get("./src/test/resources/csv/failure/testCSVLoaderFailure1.csv"))
       val exception = the[CSVLoaderException] thrownBy {
         underTest.loadOrThrow
       }
-      exception.getMessage should ===("key not found: Message")
+      exception.getMessage should ===("unmappedHeader is not a valid Int. Please provide a valid number")
     }
-    it("should throw an exception when loadOrThrow is called with a valid path but contains rows with the wrong type") {
+    it("should throw an exception when loadOrThrow is called with a valid path but the data type is incorrect 2") {
       val underTest = CSVLoaderImpl.make(Paths.get("./src/test/resources/csv/failure/testCSVLoaderFailure2.csv"))
       val exception = the[CSVLoaderException] thrownBy {
         underTest.loadOrThrow
       }
-      exception.getMessage should ===("2a0 is not a valid Int. Please provide a valid number")
+      exception.getMessage should ===("Message is not a valid Int. Please provide a valid number")
     }
     it("should throw an exception when loadOrThrow is called with a valid path but contains a valid row and one invalid row") {
       val underTest = CSVLoaderImpl.make(Paths.get("./src/test/resources/csv/failure/testCSVLoaderFailure3.csv"))

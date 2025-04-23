@@ -9,29 +9,30 @@ import scala.util.*
 trait CSVLoaderAlg {
   // similar to pureconfig's loadOrThrow method - runtime failure
   @ThrowsException("This method may throw a CSVLoaderException")
-  def loadOrThrow: LoadedCSV
+  def loadOrThrow: List[MatchObject]
 }
 
 private final class CSVLoaderImpl(path: Path)(using Using.Releasable[CSVReader]) extends CSVLoaderAlg {
-
-  private enum Columns:
-    case Message, Age
-
-  override def loadOrThrow: LoadedCSV = {
+  
+  override def loadOrThrow: List[MatchObject] = {
     if (!Files.exists(path)) throw CSVLoaderException(s"Invalid path, file is not found: [$path]")
 
-    val tryReading: Either[Throwable, List[CSVRow]] = Using(CSVReader.open(path.toFile)){ reader =>
-    // This gets all rows with the header and maps it into a CSVRow case class
-      reader.allWithHeaders().map{ row =>
-          CSVRow(
-            message = row(Columns.Message.toString),
-            age = row(Columns.Age.toString).stringToInt
-          )
-        }
+    val tryReading: Either[Throwable, List[MatchObject]] = Using(CSVReader.open(path.toFile)) { reader =>
+      reader.all().map { row =>
+        MatchObject(
+          gameId = row.head.stringToInt,
+          homeTeam = row(1),
+          awayTeam = row(2),
+          kickoff = row(3),
+          seasonId = row(4).stringToInt,
+          homeGoals = row(5).stringToInt,
+          awayGoals = row(6).stringToInt
+        )
+      }
     }.toEither
 
     tryReading match {
-      case Right(csvRows) => LoadedCSV(csvRows)
+      case Right(csvRows) => csvRows
       case Left(err) => throw CSVLoaderException(err.getMessage)
     }
   }

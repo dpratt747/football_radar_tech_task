@@ -1,9 +1,8 @@
 package processor
 
-import domain.MatchObject
+import domain.*
 import org.scalatest.funspec.AnyFunSpec
 import org.scalatest.matchers.should.Matchers
-import processor.MatchProcessor.{GamesDraw, GamesLost, GamesPlayed, GamesWon, GoalsScored}
 import processor.MatchProcessorSpec.expectedResultsTuple
 
 final class MatchProcessorSpec extends AnyFunSpec with Matchers {
@@ -29,8 +28,8 @@ final class MatchProcessorSpec extends AnyFunSpec with Matchers {
       val underTest = MatchProcessor.make(games)
 
       val expectedResults = Map(
-        "Crystal Palace" -> expectedResultsTuple(1, 0, 0, 0, 1),
-        "Arsenal" -> expectedResultsTuple(1, 2, 1, 0, 0)
+        "Crystal Palace" -> expectedResultsTuple(1, 0, 0, 0, 1, 2, 0),
+        "Arsenal" -> expectedResultsTuple(1, 2, 1, 0, 0, 0, 3)
       )
 
       println(underTest.gameDetails)
@@ -62,9 +61,9 @@ final class MatchProcessorSpec extends AnyFunSpec with Matchers {
       val underTest = MatchProcessor.make(games)
 
       val expectedResults = Map(
-        "Crystal Palace" -> expectedResultsTuple(1, 0, 0, 0, 1),
-        "Arsenal" -> expectedResultsTuple(2, 4, 2, 0, 0),
-        "Manchester United" -> expectedResultsTuple(1, 0, 0, 0, 1)
+        "Crystal Palace" -> expectedResultsTuple(1, 0, 0, 0, 1, 2, 0),
+        "Arsenal" -> expectedResultsTuple(2, 4, 2, 0, 0, 0, 6),
+        "Manchester United" -> expectedResultsTuple(1, 0, 0, 0, 1, 2, 0)
       )
 
       underTest.gameDetails should ===(expectedResults)
@@ -94,9 +93,9 @@ final class MatchProcessorSpec extends AnyFunSpec with Matchers {
       val underTest = MatchProcessor.make(games)
 
       val expectedResults = Map(
-        "Crystal Palace" -> expectedResultsTuple(1, 2, 0, 1, 0),
-        "Arsenal" -> expectedResultsTuple(2, 4, 1, 1, 0),
-        "Manchester United" -> expectedResultsTuple(1, 0, 0, 0, 1)
+        "Crystal Palace" -> expectedResultsTuple(1, 2, 0, 1, 0, 2, 1),
+        "Arsenal" -> expectedResultsTuple(2, 4, 1, 1, 0, 2, 4),
+        "Manchester United" -> expectedResultsTuple(1, 0, 0, 0, 1, 2, 0)
       )
 
       underTest.gameDetails should ===(expectedResults)
@@ -110,14 +109,18 @@ object MatchProcessorSpec {
                             goalsScored: Int,
                             gamesWon: Int,
                             gamesDraw: Int,
-                            gamesLost: Int
-                          ): (GamesPlayed, GoalsScored, GamesWon, GamesDraw, GamesLost) = {
-    (
+                            gamesLost: Int,
+                            goalsAgainst: Int,
+                            totalPoints: Int
+                          ): Metadata = {
+    Metadata(
       GamesPlayed(nPlayed),
       GoalsScored(goalsScored),
       GamesWon(gamesWon),
       GamesDraw(gamesDraw),
-      GamesLost(gamesLost)
+      GamesLost(gamesLost),
+      GoalsAgainst(goalsAgainst),
+      TotalPoints(totalPoints)
     )
   }
 }
